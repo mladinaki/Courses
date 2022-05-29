@@ -1,2 +1,2 @@
 # Courses
-Courses from my education @SofUni
+Courses from my education @SofUni demo
