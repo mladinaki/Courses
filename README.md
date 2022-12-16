@@ -1,2 +1,2 @@
 # Courses
-Courses from my education @SofUni demo
+Courses from my mladinaki
